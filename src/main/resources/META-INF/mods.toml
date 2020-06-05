@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+issueTrackerURL="https://github.com/matthiasmann/NoCavesNoRavines/issues"
+
+[[mods]]
+	modId="nocavesnoravines"
+	version="1.15.2-1.0.0"
+	displayName="No Caves No Ravines"
+	displayURL="https://www.curseforge.com/minecraft/mc-mods/nocavesnoravines"
+	credits=""
+	authors="Matthias Mann"
+	description='''
+	Disables caves and ravines
+	'''
+
+[[dependencies.nocavesnoravines]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[31,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.nocavesnoravines]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
