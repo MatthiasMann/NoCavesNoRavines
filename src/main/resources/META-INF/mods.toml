@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/matthiasmann/NoCavesNoRavines/issues"
 
 [[mods]]
 	modId="nocavesnoravines"
-	version="1.15.2-1.0.0"
+	version="1.15.2-1.1.0"
 	displayName="No Caves No Ravines"
 	displayURL="https://www.curseforge.com/minecraft/mc-mods/nocavesnoravines"
 	credits=""
